@@ -13,4 +13,5 @@
 ---
 > Week 6 - Template Based Linked List in C++
 ---
-
+> Week 7 - Double Linked List Implementation in C++
+---
