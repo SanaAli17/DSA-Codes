@@ -15,3 +15,5 @@
 ---
 > Week 7 - Double Linked List Implementation in C++
 ---
+> Week 8 - Binary Tree Implementation in C++
+---
