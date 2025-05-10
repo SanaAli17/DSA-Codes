@@ -17,3 +17,7 @@
 ---
 > Week 8 - Binary Tree Implementation in C++
 ---
+> Week 9 - Binary Search Tree ADT
+---
+> Week 10 - Graph Representation in C++
+---
